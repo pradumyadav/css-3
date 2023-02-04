@@ -65,6 +65,29 @@
     border-radius: 20px; 
     background-color: white;   
 }
+.extra{
+    border:9px red solid;
+    border-radius: 20px;
+    background-color: greenyellow;
+    color:brown;
+    font-size: 30px;
+    padding: 20px;
+    height: 45px;
+    width: 465px;
+    position: fixed;
+    top: 450px;
+    left: 600px;
+}
+.extra2{
+    border:0px greenyellow solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 170px;
+    bottom: 70px;
+    font-size: 20px;
+}
 .big{
     border: 12px violet solid;
     height: 690px;

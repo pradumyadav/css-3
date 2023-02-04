@@ -15,7 +15,7 @@
 .box1{
     border: 12px solid green;
     height: 1040px;
-    width:1550px;
+    
 }
 .start1{
     border:9px red solid;
@@ -38,7 +38,7 @@
     width: 300px;
     text-align: center;
     position:relative;
-    left: 1230px;
+    left: 1130px;
     bottom: 330px;
     background-color: white;
 }
@@ -60,7 +60,7 @@
     text-align: center;
     font-size:30px;
     position:relative;
-    left: 1230px;
+    left: 1130px;
     bottom: 340px;
     padding: 10px;
     border-radius: 20px; 
